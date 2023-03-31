@@ -37,17 +37,3 @@ Shortcuts in Vs-Code:-
 8) to go to next line at the starting point
 
    ctrl + enter
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
